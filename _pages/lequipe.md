@@ -41,13 +41,13 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 
 <!--### Esteban Colomé
 
-Esteban, titulaire du gant bleu en low kick, prépare son BMF 1 pour la Toussaint 2024.
+Esteban, titulaire du gant bleu en low kick.
 
 <img src="/assets/images/Portrait_ESTE.JPG" width="80%" height="80%" />
 
 ### Mathieu Raimondi
 
-Mathieu est titulaire du gant bleu low kick et du BMF1, et accompagne vos enfants depuis la saison 2022.
+Mathieu est titulaire du gant noir low kick et du BMF2, et accompagne vos enfants depuis la saison 2022.
 
 <img src="/assets/images/Portrait_MATH.JPG" width="80%" height="80%" />
 
