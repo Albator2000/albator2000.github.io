@@ -4,8 +4,6 @@ title: "Horaires"
 permalink: /horaires/
 ---
 
-En construction.
+L'équipe Mise aux poings est fière de vous présenter les horaires de la saison 2025 / 2026.
 
-<!--L'équipe Mise aux poings est fière de vous présenter les horaires de la saison 2024 / 2025.
-
-<img src="/assets/Planning 24-25.jpeg" width="100%" height="100%" />-->
+<img src="/assets/Planning2526.jpeg" width="100%" height="100%" />
