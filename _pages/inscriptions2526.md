@@ -4,7 +4,7 @@ title: "Inscription Saison 2025/2026"
 permalink: /inscription2526/
 ---
 
-Le club prépare les formulaires d'inscription pour la saison 2025/2026. Pour vous inscrire il vous faudra:
+Les inscriptions pour la saison 25/26 sont ouvertes! Pour vous inscrire il vous faut:
 
 <!--<li>Remplir le formulaire d'inscription sur google form (en construction) </li>
 
@@ -14,7 +14,8 @@ Le club prépare les formulaires d'inscription pour la saison 2025/2026. Pour vo
   <li><a href="https://mise-aux-poings.assoconnect.com/collect/description/518970-d-formulaire-d-adhesion-2024-majeurs-tarif-reduit-mi-annee">Formulaire tarif réduit pour les étudiants, demandeurs d'emploi, et militaires</a>.</li>
 </ul>
 -->
-<li>Remplir le formulaire d'inscription en ligne. Ce dernier sera disponible très vite!</li>
+
+<li> Remplir le <a href= "https://docs.google.com/forms/d/e/1FAIpQLScEghDscJ_lgHBjM4GCRssiUDCpR7m4dkrzYa6kX4MMWQiuiQ/viewform?usp=dialog"> formulaire d'inscription en ligne </a>.</li>
 
 <!--<li>Préparez le paiement par chèque, virement, ou pass sport. Les tarifs sont indiqués <a href="/Tarifs/">ici</a>, et sont rappelés sur les formulaires d'inscription Assoconnect.</li>-->
 <!--<li>Les documents médicaux, qui dépendent de votre situation (voir ci-dessous).</li>-->
