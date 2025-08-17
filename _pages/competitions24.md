@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Palmarès Mise aux poings"
-permalink: /Compet24/
+permalink: /Palmares/
 ---
 
 Le club Mise aux poings a participé à de nombreuses compétitions FFKMDA, et a obtenus de très bons résultats.
