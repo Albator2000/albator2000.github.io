@@ -18,7 +18,7 @@ header:
     url: "/Teambuilding/"
     description: "Venez pratiquer la boxe entre collègues"
   - title: "Compétitions"
-    url: "/Compet24/"
+    url: "/Palmares/"
     description: "Nos résultats en compétition"
   - title: "Equipements"
     url: "/materiel/"
