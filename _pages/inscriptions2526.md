@@ -17,10 +17,10 @@ Les inscriptions pour la saison 25/26 sont ouvertes! Pour vous inscrire il vous 
 
 <li> Remplir le <a href= "https://docs.google.com/forms/d/e/1FAIpQLScEghDscJ_lgHBjM4GCRssiUDCpR7m4dkrzYa6kX4MMWQiuiQ/viewform?usp=dialog"> formulaire d'inscription en ligne </a>.</li>
 
-<!--<li>Préparez le paiement par chèque, virement, ou pass sport. Les tarifs sont indiqués <a href="/Tarifs/">ici</a>, et sont rappelés sur les formulaires d'inscription Assoconnect.</li>-->
+<li>Préparez le paiement par chèque, virement, ou pass sport. Les tarifs sont indiqués <a href="/Tarifs/">ici</a>.</li>
 <!--<li>Les documents médicaux, qui dépendent de votre situation (voir ci-dessous).</li>-->
 <li>Les documents médicaux, qui dépendent de votre situation.</li>
-<!--
+
 ## Documents médicaux pour les mineurs
 
 En fonction de votre situation, retrouvez les documents à nous fournir tel que décrit ci-dessous.
@@ -30,7 +30,7 @@ En fonction de votre situation, retrouvez les documents à nous fournir tel que 
 ## Documents médicaux pour les majeurs
 
 <img src="/assets/schema_majeurs.png" width="60%" height="60%" />
--->
+
 
 ## Documents nécessaires
 
