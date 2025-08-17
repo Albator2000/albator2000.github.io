@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Tarifs/
-title: "Tarifs"
+title: ""
 ---
 
 
