@@ -36,7 +36,7 @@ En 2019, Alice et Jean-Philippe Castaing, Nicolas et Ratchana Simonet, et Mathie
 
   |  Mathieu Raimondi | Alixan Favre | Siham Nasser |
   |:---:|:---:|:---:|
-  |      BMF 2      |      BMF 2      | BMF 1 (en cours) |
+  |      BMF 2      |      BMF 2      | BMF 1     |
   | <img src="/assets/images/Portrait_MATH.JPG" width="70%" height="70%" />| <img src="/assets/images/Portrait_ALIX.JPG" width="70%" height="70%" />|<img src="/assets/siham.jpeg" width="70%" height="70%" />|
 
 <!--### Esteban Colomé
