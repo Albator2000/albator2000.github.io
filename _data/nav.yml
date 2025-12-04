@@ -23,6 +23,9 @@ header:
   - title: "Equipements"
     url: "/materiel/"
     description: "Tout savoir sur l'équipement dont vous avez besoin"
+  - title: "Bénévoles"
+    url: "/benevoles/"
+    description: "Réservé aux bénévoles de l'association"
 
 # footer links
 footer:
