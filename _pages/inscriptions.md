@@ -23,7 +23,7 @@ Les inscriptions pour la saison 26/27 sont ouvertes! Pour vous inscrire il vous 
 
 ## Documents médicaux 
 
-<img src="/assets/Contemporary Vector Organizational Chart with Depth1.png" width="60%" height="60%" />
+<img src="/assets/Documents_Medicaux_MAP.png" width="60%" height="60%" />
 
 ## Documents nécessaires
 
