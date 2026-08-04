@@ -21,16 +21,6 @@ Les inscriptions pour la saison 26/27 sont ouvertes! Pour vous inscrire il vous 
 <!--<li>Les documents médicaux, qui dépendent de votre situation (voir ci-dessous).</li>-->
 <li>Les documents médicaux, qui dépendent de votre situation.</li>
 
-## Documents médicaux pour les mineurs
-
-En fonction de votre situation, retrouvez les documents à nous fournir tel que décrit ci-dessous.
-
-<img src="/assets/schema_mineurs.png" width="60%" height="60%" />
-
-## Documents médicaux pour les majeurs
-
-<img src="/assets/schema_majeurs.png" width="60%" height="60%" />
-
 ## Documents médicaux 
 
 <img src="/assets/Contemporary Vector Organizational Chart with Depth1.png" width="60%" height="60%" />
