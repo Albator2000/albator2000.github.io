@@ -33,7 +33,7 @@ En fonction de votre situation, retrouvez les documents à nous fournir tel que 
 
 ## Documents médicaux 
 
-<img src="/assets/Contemporary Vector Organizational Chart with Depth.png" width="60%" height="60%" />
+<img src="/assets/Contemporary Vector Organizational Chart with Depth1.png" width="60%" height="60%" />
 
 ## Documents nécessaires
 
